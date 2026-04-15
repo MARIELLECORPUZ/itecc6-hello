@@ -3,5 +3,6 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <h1>Hello from Marielle!</h1>
+  <p>ITECC6 - Modern Web Application</p>
 </template>
